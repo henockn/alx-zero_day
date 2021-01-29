@@ -1,2 +1,2 @@
 git excersice
-be up to date
+be-up to date
